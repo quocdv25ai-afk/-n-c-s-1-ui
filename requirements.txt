@@ -1,0 +1,5 @@
+# SmartStudy AI - Student Learning Management Application
+# Requirements
+
+customtkinter==5.2.2
+Pillow>=10.0.0
